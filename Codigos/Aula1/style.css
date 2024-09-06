@@ -1,4 +1,13 @@
 body {
     color:white;
-    background:red;
+    background:black;
+    margin: 2px;
+}
+
+header {
+    border-bottom: solid 3px black;
+    padding: 15px;
+    font-size: 40px;
+    font-family: fantasy;
+    color: red;
 }

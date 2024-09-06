@@ -11,3 +11,21 @@ header {
     font-family: fantasy;
     color: red;
 }
+
+section{
+    background: dimgray;
+    border: solid 10px white;
+    padding: 30px;
+    margin: 20px;
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+
+p{
+    font-size: 30px;
+    font-family: sans-serif;
+}

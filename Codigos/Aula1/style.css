@@ -17,6 +17,8 @@ section{
     border: solid 10px white;
     padding: 30px;
     margin: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 h1{
@@ -28,4 +30,8 @@ h1{
 p{
     font-size: 30px;
     font-family: sans-serif;
+}
+
+.Texto{
+    margin-right: 4%;
 }

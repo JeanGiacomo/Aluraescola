@@ -33,6 +33,17 @@ p{
     font-family: sans-serif;
 }
 
-.Texto{
+.Feed{
     margin-right: 4%;
+}
+
+.feed-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px
+}
+
+.sessoes{
+    padding-right: 20px;
+    padding-left: 20px;
 }

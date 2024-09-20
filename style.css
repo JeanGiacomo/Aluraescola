@@ -42,6 +42,7 @@ p{
     display: flex;
     overflow-x: auto;
     gap: 10px
+    background: white;
 }
 
 .sessoes{

@@ -41,7 +41,7 @@ p{
 .feed-videos{
     display: flex;
     overflow-x: auto;
-    gap: 10px
+    gap: 10px;
     background: white;
 }
 
